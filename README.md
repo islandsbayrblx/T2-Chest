@@ -3,7 +3,6 @@
 packages to install by using "pip install":
 
 pywin32 
-
 opencv-python
 
 pydirectinput
