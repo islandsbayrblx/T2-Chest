@@ -4,7 +4,7 @@ Video demonstration:
 https://www.youtube.com/watch?v=NlFC39Asl3Y
 
 
-packages to install by using "pip install":
+required packages:
 
 -pywin32 
 
