@@ -2,7 +2,11 @@
 
 packages to install by using "pip install":
 
-pywin32 /n
+pywin32 
+
 opencv-python
+
 pydirectinput
+
 pyautogui
+
